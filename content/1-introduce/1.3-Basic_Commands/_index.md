@@ -9,20 +9,14 @@ pre : " <b> 1.3 </b> "
 ## Basic commands of Git
 
 #### Set up personal authentication
-    ```
     $ git config --global user.name "User Name"
     $ git config --global user.email "username@gmail.com"
-    ```
 
 #### Create a Git repository
-    ```
     $ git init
-    ```
 
 #### Copy an existing repository
-    ```
     $ git clone https://github.com/user/repository.git
-    ```
 
 #### **Branch** in Git
 - Many different branches can be created. This command helps check the current branch.

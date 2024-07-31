@@ -14,3 +14,4 @@ pre : " <b> 1.2 </b> "
 - **Add**: confirm changes of files (push to **Staging Area**).
 - **Commit**: update changes to **Local Repository**.
 - **Push**: update changes to **Server**.
+- **Pull**:

@@ -13,4 +13,5 @@ pre : " <b> 1.2 </b> "
 - Add, Update or Delete code at **Working Space**.
 - **Add**: confirm changes of files (push to **Staging Area**).
 - **Commit**: update changes to **Local Repository**.
-- **Push**: update changes to **Server**..
+- **Push**: update changes to **Server**.
+- **Pull**:

@@ -3,7 +3,7 @@ title : "Basic Commands"
 date :  "`r Sys.Date()`" 
 weight : 3 
 chapter : false
-pre : " <b> 1.3 </b> "
+pre : " <b> 3.3 </b> "
 ---
 
 ## Basic commands of Git
